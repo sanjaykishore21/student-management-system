@@ -16,8 +16,8 @@ A simple Java console application to manage student records.
 - Scanner
 
   ## Run
-  javac Main.java
-  java Main 
+-javac Main.java
+-java Main 
 
 
 
